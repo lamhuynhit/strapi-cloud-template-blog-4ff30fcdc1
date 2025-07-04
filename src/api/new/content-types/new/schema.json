@@ -20,6 +20,9 @@
     },
     "order": {
       "type": "integer"
+    },
+    "description": {
+      "type": "richtext"
     }
   }
 }
